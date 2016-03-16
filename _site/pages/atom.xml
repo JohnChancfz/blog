@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>林安亚的博客</title>
-    <link>http://painterlin.com</link>
+    <title>cfz blog</title>
+    <link>http://johnchancfz.github.io/blog</link>
     <description>My personal blog</description>
     
       <item>
         <title>2016年阅读书单</title>
-        <link>http://painterlin.com/2016/01/28/Book-List-2016.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2016/01/28/Book-List-2016.html</guid>
+        <link>http://johnchancfz.github.io/blog/2016/01/28/Book-List-2016.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2016/01/28/Book-List-2016.html</guid>
         <pubDate>Thu, 28 Jan 2016 00:00:00 +0800</pubDate>
         <description></description>
       </item>
     
       <item>
         <title>吉他上弦枕的DIY调节</title>
-        <link>http://painterlin.com/2015/10/26/Do-with-your-guitar.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2015/10/26/Do-with-your-guitar.html</guid>
+        <link>http://johnchancfz.github.io/blog/2015/10/26/Do-with-your-guitar.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2015/10/26/Do-with-your-guitar.html</guid>
         <pubDate>Mon, 26 Oct 2015 00:00:00 +0800</pubDate>
         <description>&lt;p&gt;&lt;code&gt;博客作者已获得原文作者Akira Satoyoshi授权翻译发表&lt;/code&gt;&lt;/p&gt;
 
@@ -129,8 +129,8 @@ Good luck! &lt;/p&gt;
     
       <item>
         <title>找工作总结</title>
-        <link>http://painterlin.com/2015/10/21/My-Job.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2015/10/21/My-Job.html</guid>
+        <link>http://johnchancfz.github.io/blog/2015/10/21/My-Job.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2015/10/21/My-Job.html</guid>
         <pubDate>Wed, 21 Oct 2015 00:00:00 +0800</pubDate>
         <description>&lt;blockquote&gt;
 &lt;p&gt;误打误撞拿到心仪的Offer后，反而突然又能静下来一个人在夜里的实验室默默推公式做仿真了。&lt;/p&gt;
@@ -216,8 +216,8 @@ Good luck! &lt;/p&gt;
     
       <item>
         <title>从二次型最优化问题中理解矩阵特征值的意义</title>
-        <link>http://painterlin.com/2015/09/12/Intuition-of-Eigen-Value.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2015/09/12/Intuition-of-Eigen-Value.html</guid>
+        <link>http://johnchancfz.github.io/blog/2015/09/12/Intuition-of-Eigen-Value.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2015/09/12/Intuition-of-Eigen-Value.html</guid>
         <pubDate>Sat, 12 Sep 2015 00:00:00 +0800</pubDate>
         <description>&lt;h3&gt;惯例开场故事&lt;/h3&gt;
 
@@ -258,8 +258,8 @@ Good luck! &lt;/p&gt;
     
       <item>
         <title>租房奇遇记</title>
-        <link>http://painterlin.com/2015/07/05/Never-Trust-the-Word-from-Qipa.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2015/07/05/Never-Trust-the-Word-from-Qipa.html</guid>
+        <link>http://johnchancfz.github.io/blog/2015/07/05/Never-Trust-the-Word-from-Qipa.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2015/07/05/Never-Trust-the-Word-from-Qipa.html</guid>
         <pubDate>Sun, 05 Jul 2015 00:00:00 +0800</pubDate>
         <description>&lt;p&gt;&lt;img src=&quot;/public/img/days/ca.jpg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
 
@@ -274,8 +274,8 @@ Good luck! &lt;/p&gt;
     
       <item>
         <title>牛顿法与拟牛顿法（DFP BFGS LBFGS VLBFGS）</title>
-        <link>http://painterlin.com/2015/03/23/Newton-QuasiNewton-Method.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2015/03/23/Newton-QuasiNewton-Method.html</guid>
+        <link>http://johnchancfz.github.io/blog/2015/03/23/Newton-QuasiNewton-Method.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2015/03/23/Newton-QuasiNewton-Method.html</guid>
         <pubDate>Mon, 23 Mar 2015 00:00:00 +0800</pubDate>
         <description>&lt;p&gt;最近做LBFGS的并行，顺便把牛顿法、拟牛顿法顺理一下。&lt;/p&gt;
 
@@ -365,8 +365,8 @@ Good luck! &lt;/p&gt;
     
       <item>
         <title>Mac以及Windows上搭建C++工作环境</title>
-        <link>http://painterlin.com/2015/02/13/Cplus-on-MAC.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2015/02/13/Cplus-on-MAC.html</guid>
+        <link>http://johnchancfz.github.io/blog/2015/02/13/Cplus-on-MAC.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2015/02/13/Cplus-on-MAC.html</guid>
         <pubDate>Fri, 13 Feb 2015 00:00:00 +0800</pubDate>
         <description>&lt;p&gt;实验室里我申请的垃圾老爷机被师弟玩坏了，弄了一天，最后发现根本就是硬件损伤，想把它砸掉！太坑了。&lt;/p&gt;
 
@@ -423,8 +423,8 @@ Good luck! &lt;/p&gt;
     
       <item>
         <title>大数据机器学习初探---南大李武军</title>
-        <link>http://painterlin.com/2015/02/04/Group-Meeting.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2015/02/04/Group-Meeting.html</guid>
+        <link>http://johnchancfz.github.io/blog/2015/02/04/Group-Meeting.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2015/02/04/Group-Meeting.html</guid>
         <pubDate>Wed, 04 Feb 2015 00:00:00 +0800</pubDate>
         <description>&lt;p&gt;每周的组会大概会持续2小时。如果是主讲，就需要花更多的时间去准备报告内容。之前，组会开完我就不管了，缺乏总结思考。而这样子的话实质上意义就不大了，没有内化为自己的知识，也没有什么critical thinking。从现在开始，记录每一次组会的思考。&lt;/p&gt;
 
@@ -522,8 +522,8 @@ Theoretical and Empirical Analysis&lt;/a&gt;&lt;/p&gt;
     
       <item>
         <title>Git常用命令速查表</title>
-        <link>http://painterlin.com/2015/01/30/Git-Resources.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2015/01/30/Git-Resources.html</guid>
+        <link>http://johnchancfz.github.io/blog/2015/01/30/Git-Resources.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2015/01/30/Git-Resources.html</guid>
         <pubDate>Fri, 30 Jan 2015 00:00:00 +0800</pubDate>
         <description>&lt;p&gt;master: 默认开发分支&lt;/p&gt;
 
@@ -592,16 +592,16 @@ $ git push --tags                       #上传所有标签
     
       <item>
         <title>2015年阅读书单</title>
-        <link>http://painterlin.com/2015/01/29/Book-List-2015.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2015/01/29/Book-List-2015.html</guid>
+        <link>http://johnchancfz.github.io/blog/2015/01/29/Book-List-2015.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2015/01/29/Book-List-2015.html</guid>
         <pubDate>Thu, 29 Jan 2015 00:00:00 +0800</pubDate>
         <description></description>
       </item>
     
       <item>
         <title>在Mac上用LaTeX写漂亮的简历</title>
-        <link>http://painterlin.com/2014/12/06/Make-resume-by-LaTeX.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2014/12/06/Make-resume-by-LaTeX.html</guid>
+        <link>http://johnchancfz.github.io/blog/2014/12/06/Make-resume-by-LaTeX.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/12/06/Make-resume-by-LaTeX.html</guid>
         <pubDate>Sat, 06 Dec 2014 00:00:00 +0800</pubDate>
         <description>&lt;p&gt;&lt;img src=&quot;/public/img/posts/resume.jpg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
 
@@ -661,8 +661,8 @@ $ git push --tags                       #上传所有标签
     
       <item>
         <title>我的报告 Decentralized Privacy-Preserving Low-Rank Matrix Completion</title>
-        <link>http://painterlin.com/2014/11/26/Presentation-at-Chinese-Academy-of-Science.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2014/11/26/Presentation-at-Chinese-Academy-of-Science.html</guid>
+        <link>http://johnchancfz.github.io/blog/2014/11/26/Presentation-at-Chinese-Academy-of-Science.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/11/26/Presentation-at-Chinese-Academy-of-Science.html</guid>
         <pubDate>Wed, 26 Nov 2014 00:00:00 +0800</pubDate>
         <description>&lt;p&gt;&lt;img src=&quot;/public/img/posts/s1.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
 
@@ -926,8 +926,8 @@ $ git push --tags                       #上传所有标签
     
       <item>
         <title>凸优化的一些基础算法</title>
-        <link>http://painterlin.com/2014/11/10/Basic-Algorithms-of-Convex-Opt.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2014/11/10/Basic-Algorithms-of-Convex-Opt.html</guid>
+        <link>http://johnchancfz.github.io/blog/2014/11/10/Basic-Algorithms-of-Convex-Opt.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/11/10/Basic-Algorithms-of-Convex-Opt.html</guid>
         <pubDate>Mon, 10 Nov 2014 00:00:00 +0800</pubDate>
         <description>&lt;p&gt;本文假设读者对凸优化有基本了解，主要归纳一些基础算法，以便查阅。&lt;/p&gt;
 
@@ -959,8 +959,8 @@ $ git push --tags                       #上传所有标签
     
       <item>
         <title>什么是 P, NP, NP-complete, NP-hard</title>
-        <link>http://painterlin.com/2014/11/09/What-is-NP-Hard.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2014/11/09/What-is-NP-Hard.html</guid>
+        <link>http://johnchancfz.github.io/blog/2014/11/09/What-is-NP-Hard.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/11/09/What-is-NP-Hard.html</guid>
         <pubDate>Sun, 09 Nov 2014 00:00:00 +0800</pubDate>
         <description>&lt;h3&gt;相关概念&lt;/h3&gt;
 
@@ -1016,8 +1016,8 @@ $ git push --tags                       #上传所有标签
     
       <item>
         <title>海岸公路</title>
-        <link>http://painterlin.com/2014/11/03/Coast.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2014/11/03/Coast.html</guid>
+        <link>http://johnchancfz.github.io/blog/2014/11/03/Coast.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/11/03/Coast.html</guid>
         <pubDate>Mon, 03 Nov 2014 00:00:00 +0800</pubDate>
         <description>&lt;p&gt;&lt;img src=&quot;/public/img/days/coast.jpg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
 
@@ -1031,8 +1031,8 @@ $ git push --tags                       #上传所有标签
     
       <item>
         <title>黑椒牛排</title>
-        <link>http://painterlin.com/2014/11/02/Steak.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2014/11/02/Steak.html</guid>
+        <link>http://johnchancfz.github.io/blog/2014/11/02/Steak.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/11/02/Steak.html</guid>
         <pubDate>Sun, 02 Nov 2014 00:00:00 +0800</pubDate>
         <description>&lt;blockquote&gt;
 &lt;p&gt;“两个人吃的是饭，一个人吃的是饲料。”——日剧《最完美的离婚》&lt;/p&gt;
@@ -1074,8 +1074,8 @@ $ git push --tags                       #上传所有标签
     
       <item>
         <title>Yosemite OS X 10.10 Matlab 2012a停止工作的解决办法</title>
-        <link>http://painterlin.com/2014/10/31/Yosemite-Matlab-Running-Error.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2014/10/31/Yosemite-Matlab-Running-Error.html</guid>
+        <link>http://johnchancfz.github.io/blog/2014/10/31/Yosemite-Matlab-Running-Error.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/10/31/Yosemite-Matlab-Running-Error.html</guid>
         <pubDate>Fri, 31 Oct 2014 00:00:00 +0800</pubDate>
         <description>&lt;h3&gt;问题描述&lt;/h3&gt;
 
@@ -1103,8 +1103,8 @@ sudo ln -s /opt/X11/ /usr/X11
     
       <item>
         <title>煎蛋吐司</title>
-        <link>http://painterlin.com/2014/10/29/Fried-Egg-Toast.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2014/10/29/Fried-Egg-Toast.html</guid>
+        <link>http://johnchancfz.github.io/blog/2014/10/29/Fried-Egg-Toast.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/10/29/Fried-Egg-Toast.html</guid>
         <pubDate>Wed, 29 Oct 2014 00:00:00 +0800</pubDate>
         <description>&lt;blockquote&gt;
 &lt;p&gt;“两个人吃的是饭，一个人吃的是饲料。”——日剧《最完美的离婚》&lt;/p&gt;
@@ -1140,8 +1140,8 @@ sudo ln -s /opt/X11/ /usr/X11
     
       <item>
         <title>Mac安装unrar和rar解压缩工具</title>
-        <link>http://painterlin.com/2014/10/07/Mac-Rar-Unrar.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2014/10/07/Mac-Rar-Unrar.html</guid>
+        <link>http://johnchancfz.github.io/blog/2014/10/07/Mac-Rar-Unrar.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/10/07/Mac-Rar-Unrar.html</guid>
         <pubDate>Tue, 07 Oct 2014 00:00:00 +0800</pubDate>
         <description>&lt;h3&gt;问题描述&lt;/h3&gt;
 
@@ -1187,8 +1187,8 @@ rar a archivename.rar filename   #压缩
     
       <item>
         <title>阿里巴巴大数据竞赛回顾与总结</title>
-        <link>http://painterlin.com/2014/10/01/Alibaba-Big-Data.html</link>
-        <guid isPermaLink="true">http://painterlin.com/2014/10/01/Alibaba-Big-Data.html</guid>
+        <link>http://johnchancfz.github.io/blog/2014/10/01/Alibaba-Big-Data.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/10/01/Alibaba-Big-Data.html</guid>
         <pubDate>Wed, 01 Oct 2014 00:00:00 +0800</pubDate>
         <description>&lt;p&gt;8个月前，苏宇师兄问我对&lt;a href=&quot;http://102.alibaba.com/competition/addDiscovery/index.htm&quot;&gt;阿里巴巴大数据竞赛&lt;/a&gt;感兴趣吗。正好我选修了&lt;a href=&quot;http://staff.ustc.edu.cn/%7Echeneh/&quot;&gt;陈恩红&lt;/a&gt;老师的《机器学习与数据挖掘》，很好奇这门课在实际中的应用；身为淘宝用户，也好奇我是如何被推荐的。于是和师兄一起参加比赛，加上计算机学院的刘惠民同学，我们组成了名叫&lt;code&gt;Rosemary&lt;/code&gt;三人团队。这次大赛总共有7276支队伍参赛，我们止步于第二赛季。第一赛季排名56；第二赛季排名68。&lt;/p&gt;
 
