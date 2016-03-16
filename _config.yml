@@ -7,7 +7,7 @@ author:
   name: John Chan
   email: johnchancfz@yahoo.com
   link: http://johnchancfz.github.io/blog
-  weibo: http://weibo.com/p/1005051774454945/home?from=page_100505&mod=TAB#place
+  weibo: http://weibo.com/p/1005051774454945
   github: http://github.com/johnchancfz
   
 
@@ -28,7 +28,7 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: painterlin
+  shortname: John Chan
 
 # 主题设置，自动激活某个标签
 active: 读书
