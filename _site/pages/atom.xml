@@ -1030,49 +1030,6 @@ $ git push --tags                       #上传所有标签
       </item>
     
       <item>
-        <title>黑椒牛排</title>
-        <link>http://johnchancfz.github.io/blog/2014/11/02/Steak.html</link>
-        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/11/02/Steak.html</guid>
-        <pubDate>Sun, 02 Nov 2014 00:00:00 +0800</pubDate>
-        <description>&lt;blockquote&gt;
-&lt;p&gt;“两个人吃的是饭，一个人吃的是饲料。”——日剧《最完美的离婚》&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;就算这样，那也要用心地吃饲料啊。&lt;/p&gt;
-
-&lt;h3&gt;材料&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;超市黑椒牛排&lt;/li&gt;
-&lt;li&gt;黑胡椒&lt;/li&gt;
-&lt;li&gt;橄榄油&lt;/li&gt;
-&lt;li&gt;西兰花&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3&gt;步骤&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;西兰花焯水，捞出备用。&lt;/li&gt;
-&lt;li&gt;锅内加入适量橄榄油，将准备好的西兰花加入锅内快速翻炒2分钟，装入盘内。&lt;/li&gt;
-&lt;li&gt;锅内加入适量橄榄油，大火将油加至7、8成热。&lt;/li&gt;
-&lt;li&gt;将牛排放入煎锅，以听到清脆的滋滋声为准来判断步骤3中油是否够热。&lt;/li&gt;
-&lt;li&gt;转为中火，每隔1~2分钟将牛排翻一次面，翻3~4次即可。（这一次的牛排厚度仅为13mm左右，如果牛排更厚，我觉得最多翻6次就够了。此时牛排外表焦香，里面不会渗血又够嫩。）&lt;/li&gt;
-&lt;li&gt;牛排装盘，撒上黑胡椒碎屑，不要急着切，静置2分钟，让牛肉吸足汤汁。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3&gt;完成&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/public/img/food/steak.jpg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
-
-&lt;h3&gt;后记&lt;/h3&gt;
-
-&lt;p&gt;今天跑了12km，又搬家，又打扫卫生，直到煎好牛排全身发飘的时候才意识到：尼玛我就早上8点吃了2个手指饼啊有木有，真是饿成狗了，所以牛排做好立马风卷残云。&lt;/p&gt;
-
-&lt;p&gt;美味啊TT。&lt;/p&gt;
-</description>
-      </item>
-    
-      <item>
         <title>Yosemite OS X 10.10 Matlab 2012a停止工作的解决办法</title>
         <link>http://johnchancfz.github.io/blog/2014/10/31/Yosemite-Matlab-Running-Error.html</link>
         <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/10/31/Yosemite-Matlab-Running-Error.html</guid>
@@ -1098,43 +1055,6 @@ sudo ln -s /opt/X11/ /usr/X11
 &lt;h3&gt;参考文章&lt;/h3&gt;
 
 &lt;p&gt;[1]&lt;a href=&quot;http://brainsuite.org/quickstart/installation/mac/yosemite/&quot;&gt; running svreg and bdp on yosemite (os x 10.10)&lt;/a&gt;&lt;/p&gt;
-</description>
-      </item>
-    
-      <item>
-        <title>煎蛋吐司</title>
-        <link>http://johnchancfz.github.io/blog/2014/10/29/Fried-Egg-Toast.html</link>
-        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/10/29/Fried-Egg-Toast.html</guid>
-        <pubDate>Wed, 29 Oct 2014 00:00:00 +0800</pubDate>
-        <description>&lt;blockquote&gt;
-&lt;p&gt;“两个人吃的是饭，一个人吃的是饲料。”——日剧《最完美的离婚》&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;就算这样，那也要用心地吃饲料啊。&lt;/p&gt;
-
-&lt;h3&gt;材料&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;超醇厚片吐司&lt;/li&gt;
-&lt;li&gt;柴鸡蛋&lt;/li&gt;
-&lt;li&gt;花生油&lt;/li&gt;
-&lt;li&gt;玫瑰红糖膏，&lt;a href=&quot;https://haofeng.blog.ustc.edu.cn&quot;&gt;浩锋&lt;/a&gt;的贴心小礼物，专治手脚冰凉，及大姨妈痛，感动。&lt;/li&gt;
-&lt;li&gt;枣片&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3&gt;步骤&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;锅内倒入少许花生油，加至5成热&lt;/li&gt;
-&lt;li&gt;将鸡蛋打入，约10秒后在尚未凝固的鸡蛋上盖上吐司（盖上吐司前用锅铲将蛋黄刺破，可以形成薄而均匀的溏心鸡蛋，更加美味）&lt;/li&gt;
-&lt;li&gt;小火煎至鸡蛋完全凝固，并与吐司紧密贴合&lt;/li&gt;
-&lt;li&gt;用锅铲将吐司反面，小火煎至吐司变金黄色&lt;/li&gt;
-&lt;li&gt;出锅入盘，搭配玫瑰红糖膏，搭配枣片&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3&gt;完成&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/public/img/food/toast.jpg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
 </description>
       </item>
     
@@ -1286,6 +1206,230 @@ rar a archivename.rar filename   #压缩
 &lt;p&gt;&lt;img src=&quot;/public/img/posts/score0.png&quot; alt=&quot;2&quot;&gt;&lt;/p&gt;
 
 &lt;h3&gt;总结&lt;/h3&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Linux 4：磁盘与文件系统管理</title>
+        <link>http://johnchancfz.github.io/blog/2014/09/30/Linux4.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/09/30/Linux4.html</guid>
+        <pubDate>Tue, 30 Sep 2014 00:00:00 +0800</pubDate>
+        <description>&lt;h3&gt;认识EXT2文件系统&lt;/h3&gt;
+
+&lt;p&gt;每种操作系统能够使用的文件系统并不相同。 举例来说，windows 98以前的微软操作系统主要利用的文件系统是&lt;code&gt;FAT(或FAT16)&lt;/code&gt;，windows 2000以后的版本有所谓的&lt;code&gt;NTFS&lt;/code&gt;文件系统，至于Linux的正统文件系统则为&lt;code&gt;Ext2&lt;/code&gt;(Linux second extended file system, ext2fs)这一个。此外，在默认的情况下，windows操作系统是不会认识Linux的Ext2的。&lt;/p&gt;
+
+&lt;p&gt;那么文件系统是如何运行的呢？这与操作系统的文件数据有关。较新的操作系统的文件数据除了文件实际内容外，通常含有非常多的属性，例如Linux操作系统的文件权限(rwx)与文件属性(拥有者、群组、时间参数等)。 文件系统通常会将这两部份的数据分别存放在不同的区块，权限与属性放置到&lt;code&gt;inode&lt;/code&gt;中，至于实际数据则放置到&lt;code&gt;data block&lt;/code&gt;区块中。 另外，还有一个超级区块(&lt;code&gt;superblock&lt;/code&gt;)会记录整个文件系统的整体信息，包括inode与block的总量、使用量、剩余量等。&lt;/p&gt;
+
+&lt;h3&gt;文件系统的简单操作&lt;/h3&gt;
+
+&lt;h3&gt;磁盘的分割、格式化、检验与挂载&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;磁盘分区： fdisk, partprobe&lt;/li&gt;
+&lt;li&gt;磁盘格式化： mkfs, mke2fs&lt;/li&gt;
+&lt;li&gt;磁盘检验： fsck, badblocks&lt;/li&gt;
+&lt;li&gt;磁盘挂载与卸除： mount, umount&lt;/li&gt;
+&lt;li&gt;磁盘参数修订： mknod, e2label, tune2fs, hdparm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;配置启动挂载&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;启动挂载 /etc/fstab 及 /etc/mtab&lt;/li&gt;
+&lt;li&gt;特殊装置 loop 挂载(映象档不刻录就挂载使用)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;内存置换空间(swap)之建置&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;使用实体分割槽建置swap&lt;/li&gt;
+&lt;li&gt;使用文件建置swap&lt;/li&gt;
+&lt;li&gt;swap使用上的限制&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;文件系统的特殊观察与操作&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;boot sector 与 superblock 的关系&lt;/li&gt;
+&lt;li&gt;磁盘空间之浪费问题&lt;/li&gt;
+&lt;li&gt;利用 GNU 的 parted 进行分割行为&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;重点回顾&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;基本上 Linux 的正统文件系统为 Ext2 ，该文件系统内的信息主要有：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;superblock：记录此 filesystem 的整体信息，包括inode/block的总量、使用量、剩余量， 以及文件系统的格式与相关信息等；&lt;/li&gt;
+&lt;li&gt;inode：记录文件的属性，一个文件占用一个inode，同时记录此文件的数据所在的 block 号码；&lt;/li&gt;
+&lt;li&gt;block：实际记录文件的内容，若文件太大时，会占用多个 block 。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ext2 文件系统的数据存取为索引式文件系统(indexed allocation)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;需要碎片整理的原因就是文件写入的 block 太过于离散了，此时文件读取的效能将会变的很差所致。 这个时候可以透过碎片整理将同一个文件所属的 blocks 汇整在一起。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ext2文件系统主要有：boot sector, superblock, inode bitmap, block bitmap, inode table, data block 等六大部分。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;data block 是用来放置文件内容数据地方，在 Ext2 文件系统中所支持的 block 大小有 1K, 2K 及 4K 三种而已&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;inode 记录文件的属性/权限等数据，其他重要项目为： 每个 inode 大小均固定为 128 bytes； 每个文件都仅会占用一个 inode 而已； 因此文件系统能够创建的文件数量与 inode 的数量有关；&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;文件的 block 在记录文件的实际数据，目录的 block 则在记录该目录底下文件名与其 inode 号码的对照表；&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;日志式文件系统 (journal) 会多出一块记录区，随时记载文件系统的主要活动，可加快系统复原时间；&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Linux 文件系统为添加效能，会让主存储器作为大量的磁盘高速缓存；&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;实体链接只是多了一个文件名对该 inode 号码的链接而已；&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;符号链接就类似Windows的快捷方式功能。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;磁盘的使用必需要经过：分割、格式化与挂载，分别惯用的命令为：fdisk, mkfs, mount三个命令&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;启动自动挂载可参考/etc/fstab之配置，配置完毕务必使用 mount -a 测试语法正确否；&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;参考资料&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://vbird.dic.ksu.edu.tw/linux_basic/0230filesystem.php#harddisk&quot;&gt;鸟哥的Linux私房菜 第八章&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Linux 3：文件与目录管理</title>
+        <link>http://johnchancfz.github.io/blog/2014/09/19/Linux3.html</link>
+        <guid isPermaLink="true">http://johnchancfz.github.io/blog/2014/09/19/Linux3.html</guid>
+        <pubDate>Fri, 19 Sep 2014 00:00:00 +0800</pubDate>
+        <description>&lt;h3&gt;目录的相关操作&lt;/h3&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-&quot; data-lang=&quot;&quot;&gt;.         # 代表此层目录
+..        # 代表上一层目录
+-         # 代表前一个工作目录
+~         # 代表『目前使用者身份』所在的家目录
+~account  # 代表 account 这个使用者的家目录(account是个帐号名称)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;在所有目录底下都会存在的两个目录，分别是&lt;code&gt;.&lt;/code&gt;与&lt;code&gt;..&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;根目录的上一层&lt;code&gt;(..)&lt;/code&gt;与根目录自己&lt;code&gt;(.)&lt;/code&gt;是同一个目录&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;几个常见的处理目录的命令&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;cd：变换目录，cd是Change Directory的缩写&lt;/li&gt;
+&lt;li&gt;pwd：显示目前的目录，pwd是Print Working Directory的缩写&lt;/li&gt;
+&lt;li&gt;mkdir：创建一个新的目录&lt;/li&gt;
+&lt;li&gt;rmdir：删除一个空的目录&lt;/li&gt;
+&lt;li&gt;mv：移动文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-&quot; data-lang=&quot;&quot;&gt;pwd -P                   # -P：代表显示正确的完整路径，而不是连接路径
+mkdir -m xxx             # -m：直接配置文件的权限
+mkdir -p test1/test2     # -p：直接将所需要的目录(包含上一级目录)递回创建起来！
+PATH=&quot;$PATH&quot;:/root       # 将/root路径加入PATH环境变量中
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;文件与目录管理&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;文件与目录的检视： ls&lt;/li&gt;
+&lt;li&gt;复制、删除与移动： cp, rm, mv&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-&quot; data-lang=&quot;&quot;&gt;cp -a        # 将文件的所有特性都一起复制过来
+cp -p        # 连同文件的属性一起复制过去，而非使用默认属性(备份常用)
+cp -r        # 可以复制目录，但是，文件与目录的权限可能会被改变
+rm -i        # 互动模式，在删除前会询问使用者是否动作
+rm -r        # 连目录下的东西一起删掉，并且不会询问，慎用
+mv -f        # force强制移动，如果目标文件已经存在，不会询问而直接覆盖
+mv -i        # 若目标文件 (destination) 已经存在时，就会询问是否覆盖
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;文件内容查询&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;直接检视文件内容： cat, tac, nl （常用）&lt;/li&gt;
+&lt;li&gt;可翻页检视： more, less （常用）&lt;/li&gt;
+&lt;li&gt;数据撷取： head, tail&lt;/li&gt;
+&lt;li&gt;非纯文字档： od&lt;/li&gt;
+&lt;li&gt;修改文件时间与建置新档： touch&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-&quot; data-lang=&quot;&quot;&gt;cat [-AbEnTv] filename # 由第一行开始显示文件内容。-b列出非空白行行号；-n列出所有行号。
+tac                    # 从最后一行开始显示文件内容，tac就是cat倒着写！
+nl                     # 显示文件内容，顺便输出行号
+more                   # 一页一页地显示文件内容
+less                   # 与more类似，但可以往前翻页
+head [-n number]       # 只看文件头几行，默认是10行，number是自定义行数
+tail                   # 只看文件尾几行，文件很大的时候常用
+od                     # 以二进制方式读取文件内容
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;文件与目录的默认权限与隐藏权限&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;文件默认权限：umask&lt;/li&gt;
+&lt;li&gt;文件隐藏属性： chattr, lsattr&lt;/li&gt;
+&lt;li&gt;文件特殊权限：SUID, SGID, SBIT, 权限配置&lt;/li&gt;
+&lt;li&gt;观察文件类型：file&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-&quot; data-lang=&quot;&quot;&gt;umask           # 后三位数是被拿走的权限分数，比如0022，u没有被拿走权限，g和o被拿走了w权限
+umask -S        # 以符号类型来显示权限
+umask number    # 配置自己需要的权限
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;在默认的情况中，root的umask会拿掉比较多的属性，root的umask默认是&lt;code&gt;022&lt;/code&gt;， 这是基於安全的考量啦～至於一般身份使用者，通常他们的 umask 为&lt;code&gt;002&lt;/code&gt; ，亦即保留同群组的写入权力。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;特殊权限&lt;code&gt;s&lt;/code&gt;和&lt;code&gt;t&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Set UID，简称SUID，当s标志在文件拥有者的x项目为SUID，对目录无效&lt;/li&gt;
+&lt;li&gt;Set GID，简称SGID，当s标志在群组的x项目为SGID，对目录有效&lt;/li&gt;
+&lt;li&gt;Sticky Bit, 简称SBIT，目前只针对目录有效，对於文件已经没有效果了&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;配置SUID,SGID,SBIT权限&lt;/h3&gt;
+
+&lt;p&gt;在原有的权限数字前面加上需要配置的权限数字。
+比如&lt;code&gt;755&lt;/code&gt;-&amp;gt;&lt;code&gt;4755&lt;/code&gt; ，就意味着&lt;code&gt;-rwxr-xr-x&lt;/code&gt;变为了&lt;code&gt;-rwsr-xr-x&lt;/code&gt;。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;4 为 SUID&lt;/li&gt;
+&lt;li&gt;2 为 SGID&lt;/li&gt;
+&lt;li&gt;1 为 SBIT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-&quot; data-lang=&quot;&quot;&gt;chmod 4755 filename
+chmod u=rwxs,go=x test; ls -l test      # 配置权限为-rws--x--x的模样
+chmod g+s,o+t test; ls -l test          # 配置权限为-rws--s--t，即加入SGID,SBIT权限
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;命令与文件的搜寻&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;命令档名的搜寻：which&lt;/li&gt;
+&lt;li&gt;文件档名的搜寻：whereis, locate, find&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;权限与命令的关系&lt;/h3&gt;
+
+&lt;h4&gt;一、让使用者能进入某目录成为『可工作目录』的基本权限为何：&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;可使用的命令：例如 cd 等变换工作目录的命令；&lt;/li&gt;
+&lt;li&gt;目录所需权限：使用者对这个目录至少需要具有 x 的权限&lt;/li&gt;
+&lt;li&gt;额外需求：如果使用者想要在这个目录内利用 ls 查阅档名，则使用者对此目录还需要 r 的权限。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;二、使用者在某个目录内读取一个文件的基本权限为何？&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;可使用的命令：例如本章谈到的 cat, more, less等等&lt;/li&gt;
+&lt;li&gt;目录所需权限：使用者对这个目录至少需要具有 x 权限；&lt;/li&gt;
+&lt;li&gt;文件所需权限：使用者对文件至少需要具有 r 的权限才行！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;三、让使用者可以修改一个文件的基本权限为何？&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;可使用的命令：例如 nano 或未来要介绍的 vi 编辑器等；&lt;/li&gt;
+&lt;li&gt;目录所需权限：使用者在该文件所在的目录至少要有 x 权限；&lt;/li&gt;
+&lt;li&gt;文件所需权限：使用者对该文件至少要有 r, w 权限&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;四、让一个使用者可以创建一个文件的基本权限为何？&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;目录所需权限：使用者在该目录要具有 w,x 的权限，重点在 w 啦！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;五、让使用者进入某目录并运行该目录下的某个命令之基本权限为何？&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;目录所需权限：使用者在该目录至少要有 x 的权限；&lt;/li&gt;
+&lt;li&gt;文件所需权限：使用者在该文件至少需要有 x 的权限&lt;/li&gt;
+&lt;/ul&gt;
 </description>
       </item>
     
